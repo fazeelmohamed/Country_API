@@ -26,11 +26,11 @@ Ex:
 `GET /api/countries/time-difference?countryCode1=<code1>&countryCode2=<code1>`
 
 Ex:
-> http://localhost:4000/api/countries//time-difference?countryCode1=US&countryCode2=LK
+> http://localhost:4000/api/countries/time-difference?countryCode1=US&countryCode2=LK
 
 ---
 
-3. Returns a list of countries in the region, orderd by highest population to lowest 
+1. Returns a list of countries in the region, orderd by highest population to lowest 
 
 `GET /api/countries/names?region=<region>`
 
