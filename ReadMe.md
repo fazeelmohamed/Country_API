@@ -12,7 +12,7 @@
 
 ### API Calls
 
-1. Get all currency symols that are used by more than country
+1. Get all currency symbols that are used by more than one country
 
 `GET /api/countries/currency-symbols`
 
